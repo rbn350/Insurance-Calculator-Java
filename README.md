@@ -1,4 +1,4 @@
-# Insurance-Calculator-Java
+# Insurance-Calculator_Java
 
 **Program Overview**:
 
